@@ -1,0 +1,31 @@
+#home {
+  font-family: Monaco, sans-serif;
+}
+
+.description {
+  background-color: lightskyblue;
+  text-align: center;
+  padding: 4px 0 0 0;
+}
+
+.description p {
+  margin: 0;
+}
+
+.recipe-title {
+  font-family: Monaco, sans-serif;
+}
+
+.subheadings {
+  font-family: Monaco, sans-serif;
+  font-size: 24px;
+}
+
+.purple {
+  color: #6345aa;
+  font-weight: 100;
+}
+
+.navigation {
+  display: inline;
+}
